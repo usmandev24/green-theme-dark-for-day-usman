@@ -4,14 +4,7 @@ A dark, muted VS Code theme with softened colors, designed for comfortable night
 
 ## Preview
 
-![Theme Preview](path/to/screenshot.png)
 
-## Installation
-
-1. Clone or download this repository.
-2. Open the Extensions sidebar in VS Code.
-3. Click on the `...` (more actions) icon and select `Install from VSIX...`.
-4. Select the downloaded file or paste the theme files into your VS Code user themes folder.
 
 ## Theme Features
 

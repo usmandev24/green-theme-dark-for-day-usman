@@ -1,20 +1,32 @@
 {
-  "name": "green_theme-dark-for-day-by-usman",
-  "displayName": "Green best for eyes (dark for day)",
-  "description": "A personalized VS Code theme for day use,remember to turn off night light in windows",
-  "version": "1.2.6",
-  "publisher": "Usman Ghnai(usmandev24)",
-  "engines": {
-    "vscode": "^1.60.0"
-  },
-  "categories": ["Themes"],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Green best for eyes(dark for day)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark_modern.json"
-      }
-    ]
-  }
+	"name": "green-theme-dark-for-day-by-usman",
+	"displayName": "Green best for eyes (dark for day)",
+	"description": "A personalized VS Code theme for day use,remember to turn off night light in windows",
+	"version": "1.3.6",
+	"publisher": "usmandev24",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/usmandev24/green-theme-dark-for-day-usman"
+	},
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Green theme for better eyes(dark for day)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark_modern.json"
+			}
+		]
+	},
+	"__metadata": {
+		"isApplicationScoped": false,
+		"installedTimestamp": 1731581203823,
+		"pinned": true,
+		"source": "vsix"
+	}
 }
