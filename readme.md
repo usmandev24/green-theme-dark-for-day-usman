@@ -3,8 +3,10 @@
 A dark, muted VS Code theme with softened colors, designed for comfortable night-time coding sessions.
 
 ## Preview
+Install to see preview
+download VSIX file and install it
 
-
+[(github.com/usmandev24)](https://github.com/usmandev24/green-theme-dark-for-night-usman)
 
 ## Theme Features
 
