@@ -7,6 +7,13 @@ Install to see preview
 download VSIX file and install it
 
 [(github.com/usmandev24)](https://github.com/usmandev24/green-theme-dark-for-night-usman)
+## Installation
+
+1. Clone or download this repository.
+[(github.com/usmandev24)](https://github.com/usmandev24/green-theme-dark-for-night-usman)
+2. Open the Extensions sidebar in VS Code.
+3. Click on the `Releses` download VSIX file  `Install from VSIX...`.
+4. Open VS code go to extension and slect install form VSIX option than slect your downloaded theme VSIX file
 
 ## Theme Features
 
