@@ -3,7 +3,7 @@
 A dark, muted VS Code theme with softened colors, designed for comfortable night-time coding sessions.
 
 ## Preview
-Install to see preview
+
 download VSIX file and install it.
 VSIX file are in releases you will see screenshot of theme there
 
